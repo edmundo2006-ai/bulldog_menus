@@ -9,7 +9,7 @@ If you have any questions, feedback, or need support, you can reach me at:
 ---
 
 ## Privacy Policy
-[View our Privacy Policy]([https://your-privacy-policy-link.com](https://edmundo2006-ai.github.io/bulldog_menus/PRIVACY))
+[View our Privacy Policy](https://edmundo2006-ai.github.io/bulldog_menus/privacy)
 
 ---
 
