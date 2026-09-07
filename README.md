@@ -16,7 +16,7 @@ Questions, feedback or bug reports: **edmundo20061@gmail.com**
 
 ## Privacy
 
-[View our Privacy Policy](https://edmundo2006-ai.github.io/bulldog_menus/privacy)
+[View our Privacy Policy](https://edmundo2006-ai.github.io/yapp/privacy)
 
 The Birthdays directory is built from the Yale Face Book and Yale Directory, both of
 which require a Yale login. Nobody in it opted in, so anyone in it can take themselves
