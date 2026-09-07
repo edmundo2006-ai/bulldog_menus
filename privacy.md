@@ -98,9 +98,15 @@ access returns straight away.
 
 **Delete your account.** Settings, "Delete my account". This deletes your sign-in, your
 push tokens, and your staff record if you have one, and unlinks you from past orders.
-It cannot be undone. If you are still in the directory, you will be offered the choice
-to remove that at the same time, because afterwards there is no account left to prove
-which entry is yours.
+
+You are not blocked from coming back. Signing in again with the same Yale email creates
+a fresh account. The one thing that does not return is the link to your past buttery
+orders, which stay with the buttery but are no longer connected to you.
+
+If you are still in the directory, you will be offered the choice to remove that at the
+same time, because afterwards there is no account left to prove which entry is yours.
+A directory removal survives account deletion, so if you come back and want to be
+listed again, use "Put my entry back" in Settings.
 
 **If you cannot use the app**, email **edmundo20061@gmail.com** and we will remove your
 entry by hand.
